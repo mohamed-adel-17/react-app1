@@ -1,0 +1,25 @@
+.line{
+    width: 100px;
+    border: 3px solid black;
+}
+
+img{
+    border-radius: 10px;
+}
+.layer{
+    background-color: rgba(255, 255, 255, 0.596);
+    visibility: hidden;
+    transition: .2s all;
+}
+.item:hover .layer{
+    visibility:visible;
+}
+
+
+
+/* about page css code */
+.content{
+    font-size: 1.5rem;
+    font-weight: 400px;
+}
+

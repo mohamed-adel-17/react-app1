@@ -1,0 +1,12 @@
+.line{
+    width: 100px;
+    border: 3px solid black;
+}
+.desc{
+    font-size: 2rem;
+    color: black;
+}
+.name{
+    font-size: 3rem;
+    font-weight: bolder;
+}
